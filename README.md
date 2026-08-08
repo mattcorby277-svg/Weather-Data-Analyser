@@ -1,4 +1,4 @@
-#Weather Data Analyser
+# Weather Data Analyser
 -----------------------
 A lightweight Java application that processes daily temperature readings and generates a structured weather summary. Built using clean OOP design and simple algorithms, this project demonstrates early‑intermediate Java skills through class modelling, data handling, and console‑based reporting.
 
