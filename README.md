@@ -16,6 +16,7 @@ Produce a clear, readable weather report
 
 -----------------------------------------------------
 Tech Stack
+
 Java
 
 Object‑oriented programming
@@ -24,6 +25,6 @@ ArrayList for data storage
 
 -----------------------------------------------------
 Purpose
-This project was created to practise Java fundamentals, including object‑oriented design, working with lists, writing simple algorithms, and producing structured console output. It serves as a clean, complete example of early‑intermediate Java development.
+This project was created to practice Java fundamentals, including object‑oriented design, working with lists, writing simple algorithms, and producing structured console output. It serves as a clean, complete example of early‑intermediate Java development.
 
 Basic algorithmic logic
