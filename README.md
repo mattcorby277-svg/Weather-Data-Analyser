@@ -4,6 +4,7 @@ A lightweight Java application that processes daily temperature readings and gen
 
 -----------------------------------------------------
 Features
+
 Store daily temperature readings
 
 Calculate minimum, maximum, and average temperature
